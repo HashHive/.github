@@ -18,7 +18,13 @@ The platform will also provide social features, such as the ability for users to
 
 To ensure scalability and speed, the platform will use a sharding mechanism, allowing it to process a large number of transactions at once. The platform will also be designed to be interoperable, enabling users to share their content on other platforms seamlessly.
 
-## Design Details
+## Deployed App
+
+
+Public URL: https://hashhive.netlify.app
+
+
+Contract is deployed on DCOMM_GOLD_COAST Blockchain
 
 ### Smart Contract Layer
 

@@ -1,5 +1,5 @@
 # README.md
-![Alt text](https://lh3.googleusercontent.com/0hhyq_eus-Nb9LZC61lSGhsbCoj1VU29GR3p0xIwqP4zm6fDg5s5Z9CkjcE5-0oVE7BCYJhDLC-JicL1EbT-DRjG4urvXwIo-9QxucQ)
+![Alt text](https://github.com/HashHive/.github/blob/main/profile/Screenshot%202023-04-08%20at%2001.53.26.jpeg)
 # HashHaive
 
   
